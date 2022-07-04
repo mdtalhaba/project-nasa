@@ -1,3 +1,40 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.the {
+    color: orange;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+section {
+    display: flex;
+}
+
+.ganjam {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.ganjam img {
+    width: 70%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.top-one {
+    background-image: url(image/nasacorner.png);
+    background-repeat: no-repeat;
+
 }
