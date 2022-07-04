@@ -11,7 +11,7 @@ h1 {
     font-size: 50px;
 }
 
-section {
+.kabjap {
     display: flex;
 }
 
@@ -48,4 +48,29 @@ section {
 .ganjam-two img {
     width: 100%;
 
+}
+
+.ganjam-three {
+    width: 50%;
+    margin: 5px 30px;
+    padding: 0px 50px 80px 50px;
+    box-shadow: 10px 10px 20px;
+    border: 10px solid orange;
+
+}
+
+.h1 {
+    font-size: 35px;
+}
+
+#id1 {
+    border-left: 10px solid green;
+}
+
+#id2 {
+    border-left: 10px solid blue;
+}
+
+footer p {
+    text-align: center;
 }
